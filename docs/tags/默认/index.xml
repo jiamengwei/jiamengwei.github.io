@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jiamengwei&#39;s blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on jiamengwei&#39;s blog</description>
+    <title>默认 on jiamengwei&#39;s blog</title>
+    <link>http://localhost:1313/tags/%E9%BB%98%E8%AE%A4/</link>
+    <description>Recent content in 默认 on jiamengwei&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 07 Feb 2022 15:44:02 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Feb 2022 15:44:02 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E9%BB%98%E8%AE%A4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
       <link>http://localhost:1313/post/hello/</link>
@@ -14,15 +14,6 @@
       
       <guid>http://localhost:1313/post/hello/</guid>
       <description>一级标题测试 哈哈我是内容哈sdfdsfsdfs哈我是内容哈哈我是内容哈哈我是内容哈哈我是内容哈哈我是内容哈哈我是内容哈哈我是内容哈哈我是内容</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
     </item>
     
   </channel>
